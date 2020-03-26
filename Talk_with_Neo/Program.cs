@@ -15,7 +15,6 @@ namespace Talk_with_Neo
                 Write_to_Console(str[i]); 
             
         }
-
         public static  void Write_to_Console(string a)
         {
             Console.WriteLine(a);
